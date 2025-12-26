@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here" width="140" style="border-radius:50%">
+  <img src="https://C:\Users\HP\OneDrive\Desktop\deep_image.jpg" width="140" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Rathod</h1>
