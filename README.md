@@ -1,40 +1,46 @@
 <h1 align="center">Deepak Rathod</h1>
-<p align="center"><strong>Java  Developer  | Backend & Full Stack Java Learner</strong></p>
+<p align="center"><strong>Java Developer | Backend & Full Stack Java Learner</strong></p>
+
+<p align="center">
+  <img src="C:\Users\HP\OneDrive\Desktop\deep_image.jpg" width="150" style="border-radius:50%" />
+</p>
 
 ---
 
-### 👨‍💻 Profile Summary
-- B.Tech in **Information Technology** Graduate — **Indore**
-- **Flutter Developer** at **Narma Dev** (6+ months experience)
-- Strong foundation in **Backend Development** — Java, Spring Boot, Node.js, PHP, .NET, SQL
-- Passionate about building **scalable mobile and web applications**
+### 👨‍💼 Profile Summary
+- **B.Tech — Information Technology** (2024 Graduate), *Swami Vivekananda College of Engineering, Indore*
+- **Flutter Developer** at **Narma Dev** *(6+ months experience)*
+- Skilled in backend technologies with hands-on learning in **Spring Boot, Node.js, SQL, PHP, and .NET**
+- Focused on building **scalable, efficient, and user-centric applications**
 
 ---
 
-### 🧠 Currently Learning
+### 📘 Currently Learning
 `Java` · `Spring Boot` · `JavaScript` · `React` · `HTML` · `CSS`
 
 ---
 
-### 🗂 Projects
-- 🏥 **Hospital Management System** — Advanced Java
-- 🛍 **MERN Stack E-Commerce Platform**
-- 🛒 **E-Commerce Website**
-👉 GitHub: **Deepakrathod1611**
+### 🗂️ Projects
+- **Hospital Management System** — Advanced Java (OOP + Modular Design)
+- **MERN Stack E-Commerce Platform** — Full stack implementation
+- **E-Commerce Website** — Responsive Web UI
+- GitHub Profile: **Deepakrathod1611**
 
 ---
 
-### 📬 Contact
-- Email: **deepakrathod9368@gmail.com**
-- LinkedIn: **deepak-rathod** *https://www.linkedin.com/in/deepak-rathod-537a92224*
-- Portfolio : https://deeprathod.flutterflow.app/
+### 📬 Contact & Links
+- **Email:** deepakrathod9368@gmail.com  
+- **LinkedIn:** deepak-rathod — *deepak-rathod-537a92224*  
+- **Portfolio:** FlutterFlow Web App — *deeprathod.flutterflow.app*  
+- **Personal Portfolio:** FlutterFlow Showcase — *deeprathod.flutterflow.app*
+
 ---
 
-### 🛠 Technical Skills
+### 🛠️ Technical Skills
 **Languages:** Java, Dart, JavaScript, C, SQL, HTML, CSS  
-**Frameworks:** Flutter, Spring, Spring Boot, React, Bootstrap  
-**Databases:** MySQL, Oracle, MongoDB  
-**Tools:** Git, GitHub, VS Code, IntelliJ, Spring Tool Suite
+**Frameworks & Libraries:** Flutter, Spring Framework, Spring Boot, React, Bootstrap  
+**Databases:** MySQL, Oracle DB, MongoDB  
+**Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Spring Tool Suite (STS)
 
 ---
 
@@ -46,4 +52,4 @@
 
 ---
 
-<p align="center">Open to collaboration and internship/full-time opportunities in Backend and Java-based roles.</p>
+<p align="center">Open to internship and full-time opportunities in <strong>Java Backend & Full Stack roles</strong>.</p>
