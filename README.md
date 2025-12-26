@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Rathod /h1>
+<h1 align="center">Hi 👋, I'm Deepak Rathod 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=F75C7E&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Java+Developer+%7C+Web+Developer+%7C+Tech+Enthusiast" />
 </h3>
@@ -13,10 +13,10 @@
 `Java` · `Spring Boot` · `JavaScript` · `HTML/CSS` · `React`
 
 🌐 **Portfolio**  
-👉 [mohammedkaifportfolio.netlify.app](https://mohammedkaifportfolio.netlify.app/)
+👉 [mohammedkaifportfolio.netlify.app](https://deeprathod.flutterflow.app/)
 
 👨‍💻 **Projects**  
-👉 [View My GitHub Repositories](https://github.com/MohammedKaif278?tab=repositories)
+👉 [View My GitHub Repositories](https://github.com/Deeprathod1611/)
 
 💬 **Ask Me About**  
 Java · Web Development · My Projects
