@@ -1,55 +1,88 @@
-<h1 align="center">Deepak Rathod</h1>
-<p align="center"><strong>Java Developer | Backend & Full Stack Java Learner</strong></p>
+<h1 align="center">Hi 👋, I'm Deepak Rathod /h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=F75C7E&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Java+Developer+%7C+Web+Developer+%7C+Tech+Enthusiast" />
+</h3>
 
-<p align="center">
-  <img src="C:\Users\HP\OneDrive\Desktop\deep_image.jpg" width="150" style="border-radius:50%" />
+
+
+
+---
+
+### 🚀 About Me
+🌱 **Currently Learning**  
+`Java` · `Spring Boot` · `JavaScript` · `HTML/CSS` · `React`
+
+🌐 **Portfolio**  
+👉 [mohammedkaifportfolio.netlify.app](https://mohammedkaifportfolio.netlify.app/)
+
+👨‍💻 **Projects**  
+👉 [View My GitHub Repositories](https://github.com/MohammedKaif278?tab=repositories)
+
+💬 **Ask Me About**  
+Java · Web Development · My Projects
+
+📫 **Contact Me**  
+📧 **deepakrathod9368@gmail.com**
+
+⚡ **Fun Fact**  
+I love building **smart, fast, and scalable web applications** 🚀
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### **Languages**
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+
+
+#### **Databases**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+#### **Frameworks & Libraries**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+#### **Tools**
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
+![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif278&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKaif278&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/deepak-rathod-537a92224" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" /></a>
+<a href="https://github.com/Deeprathod1611/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" /></a>
 </p>
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight&cache_seconds=86400&hide_border=false)
 
-### 👨‍💼 Profile Summary
-- **B.Tech — Information Technology** (2024 Graduate), *Swami Vivekananda College of Engineering, Indore*
-- **Flutter Developer** at **Narma Dev** *(6+ months experience)*
-- Skilled in backend technologies with hands-on learning in **Spring Boot, Node.js, SQL, PHP, and .NET**
-- Focused on building **scalable, efficient, and user-centric applications**
-
----
-
-### 📘 Currently Learning
-`Java` · `Spring Boot` · `JavaScript` · `React` · `HTML` · `CSS`
-
----
-
-### 🗂️ Projects
-- **Hospital Management System** — Advanced Java (OOP + Modular Design)
-- **MERN Stack E-Commerce Platform** — Full stack implementation
-- **E-Commerce Website** — Responsive Web UI
-- GitHub Profile: **Deepakrathod1611**
-
----
-
-### 📬 Contact & Links
-- **Email:** deepakrathod9368@gmail.com  
-- **LinkedIn:** deepak-rathod — *deepak-rathod-537a92224*  
-- **Portfolio:** FlutterFlow Web App — *deeprathod.flutterflow.app*  
-- **Personal Portfolio:** FlutterFlow Showcase — *deeprathod.flutterflow.app*
-
----
-
-### 🛠️ Technical Skills
-**Languages:** Java, Dart, JavaScript, C, SQL, HTML, CSS  
-**Frameworks & Libraries:** Flutter, Spring Framework, Spring Boot, React, Bootstrap  
-**Databases:** MySQL, Oracle DB, MongoDB  
-**Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Spring Tool Suite (STS)
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakrathod1611&show_icons=true&theme=light&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakrathod1611&theme=light&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">Open to internship and full-time opportunities in <strong>Java Backend & Full Stack roles</strong>.</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohammedKaif278&theme=tokyonight)
