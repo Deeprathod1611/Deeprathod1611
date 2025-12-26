@@ -73,13 +73,13 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepakrathod1611&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Deeprathod1611&theme=tokyonight&cache_seconds=86400&hide_border=false)">
 </p>
 
 ---
 
 ## 📫 Contact
-📧 **Email:** *Available on GitHub profile*  
+📧 **Email:** *deepakrathod9368@gmail.com*  
 💬 Open to discussions on **Java Backend, Spring Boot, and Flutter Development**
 
 ---
